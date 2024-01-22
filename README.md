@@ -1,2 +1,2 @@
 # competitive
-- This is sample repo
+- This is sample repository
