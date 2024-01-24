@@ -1,3 +1,4 @@
 # competitive
 - This is sample repository
-- hari made changes
+- Siyo made merge conflict
+
